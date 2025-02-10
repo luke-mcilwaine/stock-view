@@ -25,7 +25,7 @@ A React-based web application for viewing and analysing stock price data. The ap
 1. Clone the repository
 ```bash
 git clone https://github.com/luke-mcilwaine/stock-view.git
-cd stock-view-app
+cd stock-view
 ```
 
 2. Install Dependencies
